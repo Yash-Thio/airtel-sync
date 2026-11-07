@@ -38,3 +38,6 @@ next-env.d.ts
 # local prototype store
 /.data
 .neon
+
+.*
+!.gitignore
